@@ -23,8 +23,8 @@ I developed the software using Python, a popular programming language. To intera
 
 Throughout the project, I found the following websites helpful:
 
-- [Firebase Documentation]([https://firebase.google.com/docs])
-- [Python Documentation]([https://docs.python.org/3/])
+- [Firebase Documentation](https://firebase.google.com/docs)
+- [Python Documentation](https://docs.python.org/3/)
 
 # Future Work
 
